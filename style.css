@@ -1,3 +1,24 @@
 h1 {
-    color:aqua (255, 0, 0);
+    color : #fafafa;
+    width: 500px;
+    border: 1px solid black;
+    font-size: 60px;
+    text-align: center;
 }
+
+body {
+    background-color: #1a9bdd;
+}
+
+p {
+    color: #f10dcb;
+    font-size: 60px;
+    line-height: 2;
+    letter-spacing: 1px;
+
+}
+
+html {
+    font-size: 10px; /* px quiere decir 'píxeles': el tamaño de la fuente base es ahora de 10 píxeles de altura */
+    font-family: "Open Sans", sans-serif; /* Este debe ser el resto del resultado que obtuviste de Google fonts */
+  }
